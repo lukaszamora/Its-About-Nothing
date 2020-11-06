@@ -10,8 +10,8 @@ Not sure if it needs an intro but in any case:
 
 The dataset I'm using includes 2 files:
 
-* `scripts.csv`: contains the full script for each episode, line by line. Thus, 1 line of the dataframe has the `Character` diaglouge, and the `Dialogue` itself.
-* `episode_info.csv`: has the details of each 174 epides, including the `Date` it was released, the `Title`, writers, etc.
+* `scripts.csv`: contains the full script for each episode, line by line. Thus, 1 line of the dataframe has the `Character` dialogue, and the `Dialogue` itself.
+* `episode_info.csv`: has the details of each 174 episodes, including the `Date` it was released, the `Title`, writers, etc.
 
 The goal of this project is to explore the data for the details of each episode. As well as making a network using the dialogue.
 
